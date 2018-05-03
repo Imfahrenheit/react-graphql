@@ -9,7 +9,7 @@ import AddBook from './conponents/AddBook'
 
 
 const client = new ApolloClient({
-  uri: 'https://protected-wildwood-57334.herokuapp.com/graphql'
+  uri: 'https://full-stack-express.herokuapp.com/graphql'
 });
 
 
